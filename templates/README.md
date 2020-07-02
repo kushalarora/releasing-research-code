@@ -56,7 +56,16 @@ Our model achieves the following performance on :
 
 > 📋Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
 
-
+## Citation
+```
+@article{anand2019unsupervised,
+  title={Unsupervised State Representation Learning in Atari},
+  author={Anand, Ankesh and Racah, Evan and Ozair, Sherjil and Bengio, Yoshua and C{\^o}t{\'e}, Marc-Alexandre and Hjelm, R Devon},
+  journal={arXiv preprint arXiv:1906.08226},
+  year={2019}
+}
+```
 ## Contributing
 
 > 📋Pick a licence and describe how to contribute to your code repository. 
+
